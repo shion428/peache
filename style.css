@@ -102,8 +102,8 @@ img {
 }
 
 .carousel {
-  width: 320px;
-  height: 182px;
+  width: 640px;
+  height: 364px;
   display: flex; 
   overflow: hidden; 
   margin: 0 auto; 
