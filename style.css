@@ -74,7 +74,7 @@ img {
 .button {
     box-shadow: 5px 5px 0 #AC9277;
   font-size: 5rem;
-  border-radius: 50%;
+  border-radius: 30%;
   padding: 18px 32px;
   color: #fff;
   background-color: #432;
